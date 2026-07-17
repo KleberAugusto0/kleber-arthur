@@ -38,3 +38,4 @@ def calcular():
 		resultado = numero1 / numero2
 
 		print(f"O resultado da operação {numero1} {operacao} {numero2} é: {resultado}")
+		
